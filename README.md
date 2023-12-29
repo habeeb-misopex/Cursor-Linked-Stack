@@ -1,5 +1,5 @@
 # Cursor-Linked-Stack
-## implementation of cursor linked stack that read a specific structured file(and checked iv valid) to compute postfix and prefix equations and convert between them.
+## implementation of cursor linked stack that read a specific structured file(and checked if valid) to compute postfix and prefix equations and convert between them.
 file looks like :
 
 <242>
